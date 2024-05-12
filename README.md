@@ -2,7 +2,7 @@
 
 Meu nome é **Marcos Barbosa**
 
-Trabalho na ![Diretoria de Ensino - Região Itararé](https://deitarare.educacao.sp.gov.br/)
+Trabalho na ![DE Itararé](https://deitarare.educacao.sp.gov.br/)
 
 Estou apoiando os professores de Tecnologia e Inovação e Tecnologia e Robótica no uso da Platafoma _Alura_
 
